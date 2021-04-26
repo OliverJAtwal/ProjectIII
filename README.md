@@ -23,7 +23,7 @@
 5.3 AFDataGen
 
 ## Chapter 6: Solving Laplace Equations
-6.1 Dirichlet_Training
+6.1 Dirichlet_Training, fixed.gif, pre.gif, free.gif
 
 6.2 Dirichlet2_Training
 
