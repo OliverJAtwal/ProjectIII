@@ -29,3 +29,13 @@
 
 6.3: Neumann_Training
 
+## Extras
+These are code and animations that are not covered in the report, but are still related the project:
+
+ode_numpy.py This is a numpy only implementation of the neural network (chapters 3 & 4).
+
+ode_jax.py This is the JAX implementatio of the ODE solving neural network, this code is the basis for the comparisons (chapters 4 & 5).
+
+runge_kutta_comparison.py This is a comparison of the neural network ODE solver versus runge-kutta integration methods (poster).
+
+*.gif Animations for various learning rates (chapter 4) & Laplace equations (chapter 6).
